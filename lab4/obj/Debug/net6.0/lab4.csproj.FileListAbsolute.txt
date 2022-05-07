@@ -1,0 +1,15 @@
+/Users/alufers/Projects/Studia/ProgramowanieObiektoweLab/lab4/bin/Debug/net6.0/lab4
+/Users/alufers/Projects/Studia/ProgramowanieObiektoweLab/lab4/bin/Debug/net6.0/lab4.deps.json
+/Users/alufers/Projects/Studia/ProgramowanieObiektoweLab/lab4/bin/Debug/net6.0/lab4.runtimeconfig.json
+/Users/alufers/Projects/Studia/ProgramowanieObiektoweLab/lab4/bin/Debug/net6.0/lab4.dll
+/Users/alufers/Projects/Studia/ProgramowanieObiektoweLab/lab4/bin/Debug/net6.0/lab4.pdb
+/Users/alufers/Projects/Studia/ProgramowanieObiektoweLab/lab4/obj/Debug/net6.0/lab4.csproj.AssemblyReference.cache
+/Users/alufers/Projects/Studia/ProgramowanieObiektoweLab/lab4/obj/Debug/net6.0/lab4.GeneratedMSBuildEditorConfig.editorconfig
+/Users/alufers/Projects/Studia/ProgramowanieObiektoweLab/lab4/obj/Debug/net6.0/lab4.AssemblyInfoInputs.cache
+/Users/alufers/Projects/Studia/ProgramowanieObiektoweLab/lab4/obj/Debug/net6.0/lab4.AssemblyInfo.cs
+/Users/alufers/Projects/Studia/ProgramowanieObiektoweLab/lab4/obj/Debug/net6.0/lab4.csproj.CoreCompileInputs.cache
+/Users/alufers/Projects/Studia/ProgramowanieObiektoweLab/lab4/obj/Debug/net6.0/lab4.dll
+/Users/alufers/Projects/Studia/ProgramowanieObiektoweLab/lab4/obj/Debug/net6.0/refint/lab4.dll
+/Users/alufers/Projects/Studia/ProgramowanieObiektoweLab/lab4/obj/Debug/net6.0/lab4.pdb
+/Users/alufers/Projects/Studia/ProgramowanieObiektoweLab/lab4/obj/Debug/net6.0/lab4.genruntimeconfig.cache
+/Users/alufers/Projects/Studia/ProgramowanieObiektoweLab/lab4/obj/Debug/net6.0/ref/lab4.dll

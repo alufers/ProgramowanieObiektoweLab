@@ -1,0 +1,15 @@
+/Users/alufers/Projects/Studia/ProgramowanieObiektoweLab/event_example/bin/Debug/net6.0/event_example
+/Users/alufers/Projects/Studia/ProgramowanieObiektoweLab/event_example/bin/Debug/net6.0/event_example.deps.json
+/Users/alufers/Projects/Studia/ProgramowanieObiektoweLab/event_example/bin/Debug/net6.0/event_example.runtimeconfig.json
+/Users/alufers/Projects/Studia/ProgramowanieObiektoweLab/event_example/bin/Debug/net6.0/event_example.dll
+/Users/alufers/Projects/Studia/ProgramowanieObiektoweLab/event_example/bin/Debug/net6.0/event_example.pdb
+/Users/alufers/Projects/Studia/ProgramowanieObiektoweLab/event_example/obj/Debug/net6.0/event_example.csproj.AssemblyReference.cache
+/Users/alufers/Projects/Studia/ProgramowanieObiektoweLab/event_example/obj/Debug/net6.0/event_example.GeneratedMSBuildEditorConfig.editorconfig
+/Users/alufers/Projects/Studia/ProgramowanieObiektoweLab/event_example/obj/Debug/net6.0/event_example.AssemblyInfoInputs.cache
+/Users/alufers/Projects/Studia/ProgramowanieObiektoweLab/event_example/obj/Debug/net6.0/event_example.AssemblyInfo.cs
+/Users/alufers/Projects/Studia/ProgramowanieObiektoweLab/event_example/obj/Debug/net6.0/event_example.csproj.CoreCompileInputs.cache
+/Users/alufers/Projects/Studia/ProgramowanieObiektoweLab/event_example/obj/Debug/net6.0/event_example.dll
+/Users/alufers/Projects/Studia/ProgramowanieObiektoweLab/event_example/obj/Debug/net6.0/refint/event_example.dll
+/Users/alufers/Projects/Studia/ProgramowanieObiektoweLab/event_example/obj/Debug/net6.0/event_example.pdb
+/Users/alufers/Projects/Studia/ProgramowanieObiektoweLab/event_example/obj/Debug/net6.0/event_example.genruntimeconfig.cache
+/Users/alufers/Projects/Studia/ProgramowanieObiektoweLab/event_example/obj/Debug/net6.0/ref/event_example.dll
